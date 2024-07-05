@@ -1,0 +1,18 @@
+[submodule "KwonHyeokWon/ambition-kwon_Algorithm_Study"]
+	path = KwonHyeokWon/ambition-kwon_Algorithm_Study
+	url = https://github.com/ambition-kwon/ambition-kwon_Algorithm_Study.git
+[submodule "KangDaYeon/daniyeoni_Algorithm_Study"]
+	path = KangDaYeon/daniyeoni_Algorithm_Study
+	url = https://github.com/daniyeoni/daniyeoni_Algorithm_Study.git
+[submodule "KimJiHyeok/kjeok_Algorithm_Study"]
+	path = KimJiHyeok/kjeok_Algorithm_Study
+	url = https://github.com/kjeok00/kjeok_Algorithm_Study.git
+[submodule "KimHanna/khanna01_Algorithm_Study"]
+	path = KimHanna/khanna01_Algorithm_Study
+	url = https://github.com/khanna01/khanna01_Algorithm_Study.git
+[submodule "KimJaeHyung/21divcert_Algorithm_Study"]
+	path = KimJaeHyung/21divcert_Algorithm_Study
+	url = https://github.com/21divcert/21divcert_Algorithm_Study.git
+[submodule "JeongGreen/Green-JEONG_Algorithm_Study"]
+	path = JeongGreen/Green-JEONG_Algorithm_Study
+	url = https://github.com/Green-JEONG/Green-JEONG_Algorithm_Study.git
